@@ -1,5 +1,18 @@
-# Leetcode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# Leetcode Solutions
+This repository contains my C++ solutions to LeetCode problems solved as part of my Data Structures and Algorithms practice.
+
+## Language
+- C++
+
+## Purpose
+- Strengthen problem-solving skills
+- Prepare for technical interviews
+- Track my DSA progress
+
+## Leetcode Profile
+- [Nithin_Reddy127](https://leetcode.com/u/Nithin_Reddy127/)
+  
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
