@@ -21,6 +21,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | ------- |
 | [0217-contains-duplicate](https://github.com/nithin7907/Leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/nithin7907/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1207-unique-number-of-occurrences](https://github.com/nithin7907/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nithin7907/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1748-sum-of-unique-elements](https://github.com/nithin7907/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nithin7907/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -61,6 +62,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/nithin7907/Leetcode/tree/master/0217-contains-duplicate) |
+| [1207-unique-number-of-occurrences](https://github.com/nithin7907/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/nithin7907/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nithin7907/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nithin7907/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
