@@ -21,6 +21,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | ------- |
 | [0217-contains-duplicate](https://github.com/nithin7907/Leetcode/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/nithin7907/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1002-find-common-characters](https://github.com/nithin7907/Leetcode/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/nithin7907/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nithin7907/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1512-number-of-good-pairs](https://github.com/nithin7907/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -65,6 +66,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/nithin7907/Leetcode/tree/master/0217-contains-duplicate) |
+| [1002-find-common-characters](https://github.com/nithin7907/Leetcode/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/nithin7907/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/nithin7907/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/nithin7907/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -87,6 +89,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 ## String
 |  |
 | ------- |
+| [1002-find-common-characters](https://github.com/nithin7907/Leetcode/tree/master/1002-find-common-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nithin7907/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nithin7907/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2418-sort-the-people](https://github.com/nithin7907/Leetcode/tree/master/2418-sort-the-people) |
