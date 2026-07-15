@@ -54,6 +54,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SaiNithin3470/Leetcode/tree/master/0012-integer-to-roman) |
 | [0258-add-digits](https://github.com/nithin7907/Leetcode/tree/master/0258-add-digits) |
 | [1512-number-of-good-pairs](https://github.com/nithin7907/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Simulation
@@ -68,6 +69,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SaiNithin3470/Leetcode/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/nithin7907/Leetcode/tree/master/0217-contains-duplicate) |
 | [1002-find-common-characters](https://github.com/nithin7907/Leetcode/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiNithin3470/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -97,6 +99,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SaiNithin3470/Leetcode/tree/master/0012-integer-to-roman) |
 | [1002-find-common-characters](https://github.com/nithin7907/Leetcode/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiNithin3470/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nithin7907/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
