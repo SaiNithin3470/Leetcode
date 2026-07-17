@@ -27,6 +27,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nithin7907/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1512-number-of-good-pairs](https://github.com/nithin7907/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/nithin7907/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/SaiNithin3470/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2295-replace-elements-in-an-array](https://github.com/SaiNithin3470/Leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2418-sort-the-people](https://github.com/nithin7907/Leetcode/tree/master/2418-sort-the-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nithin7907/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -80,6 +81,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [1748-sum-of-unique-elements](https://github.com/nithin7907/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nithin7907/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nithin7907/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/SaiNithin3470/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2295-replace-elements-in-an-array](https://github.com/SaiNithin3470/Leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2325-decode-the-message](https://github.com/SaiNithin3470/Leetcode/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/nithin7907/Leetcode/tree/master/2418-sort-the-people) |
@@ -100,6 +102,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [1512-number-of-good-pairs](https://github.com/nithin7907/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/nithin7907/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nithin7907/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/SaiNithin3470/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## String
 |  |
 | ------- |
