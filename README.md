@@ -32,6 +32,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [2295-replace-elements-in-an-array](https://github.com/SaiNithin3470/Leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2418-sort-the-people](https://github.com/nithin7907/Leetcode/tree/master/2418-sort-the-people) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nithin7907/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/SaiNithin3470/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -90,6 +91,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [2956-find-common-elements-between-two-arrays](https://github.com/nithin7907/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SaiNithin3470/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nithin7907/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/SaiNithin3470/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
