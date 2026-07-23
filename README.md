@@ -31,6 +31,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [1512-number-of-good-pairs](https://github.com/nithin7907/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/nithin7907/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SaiNithin3470/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1817-finding-the-users-active-minutes](https://github.com/SaiNithin3470/Leetcode/tree/master/1817-finding-the-users-active-minutes) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SaiNithin3470/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2295-replace-elements-in-an-array](https://github.com/SaiNithin3470/Leetcode/tree/master/2295-replace-elements-in-an-array) |
@@ -90,6 +91,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [1512-number-of-good-pairs](https://github.com/nithin7907/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/nithin7907/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SaiNithin3470/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1817-finding-the-users-active-minutes](https://github.com/SaiNithin3470/Leetcode/tree/master/1817-finding-the-users-active-minutes) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nithin7907/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nithin7907/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -129,6 +131,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [0916-word-subsets](https://github.com/SaiNithin3470/Leetcode/tree/master/0916-word-subsets) |
 | [1002-find-common-characters](https://github.com/nithin7907/Leetcode/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiNithin3470/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SaiNithin3470/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nithin7907/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nithin7907/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2325-decode-the-message](https://github.com/SaiNithin3470/Leetcode/tree/master/2325-decode-the-message) |
