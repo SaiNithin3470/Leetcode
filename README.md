@@ -35,6 +35,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [1817-finding-the-users-active-minutes](https://github.com/SaiNithin3470/Leetcode/tree/master/1817-finding-the-users-active-minutes) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SaiNithin3470/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2295-replace-elements-in-an-array](https://github.com/SaiNithin3470/Leetcode/tree/master/2295-replace-elements-in-an-array) |
+| [2363-merge-similar-items](https://github.com/SaiNithin3470/Leetcode/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/nithin7907/Leetcode/tree/master/2418-sort-the-people) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SaiNithin3470/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nithin7907/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -98,6 +99,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SaiNithin3470/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2295-replace-elements-in-an-array](https://github.com/SaiNithin3470/Leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2325-decode-the-message](https://github.com/SaiNithin3470/Leetcode/tree/master/2325-decode-the-message) |
+| [2363-merge-similar-items](https://github.com/SaiNithin3470/Leetcode/tree/master/2363-merge-similar-items) |
 | [2405-optimal-partition-of-string](https://github.com/SaiNithin3470/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/nithin7907/Leetcode/tree/master/2418-sort-the-people) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SaiNithin3470/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -112,6 +114,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [0229-majority-element-ii](https://github.com/SaiNithin3470/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2363-merge-similar-items](https://github.com/SaiNithin3470/Leetcode/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/nithin7907/Leetcode/tree/master/2418-sort-the-people) |
 ## Counting
 |  |
@@ -152,4 +155,8 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 |  |
 | ------- |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SaiNithin3470/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/SaiNithin3470/Leetcode/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
