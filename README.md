@@ -85,6 +85,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [0229-majority-element-ii](https://github.com/SaiNithin3470/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SaiNithin3470/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0791-custom-sort-string](https://github.com/SaiNithin3470/Leetcode/tree/master/0791-custom-sort-string) |
 | [0916-word-subsets](https://github.com/SaiNithin3470/Leetcode/tree/master/0916-word-subsets) |
 | [1002-find-common-characters](https://github.com/nithin7907/Leetcode/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiNithin3470/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -116,6 +117,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [0229-majority-element-ii](https://github.com/SaiNithin3470/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SaiNithin3470/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0791-custom-sort-string](https://github.com/SaiNithin3470/Leetcode/tree/master/0791-custom-sort-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2363-merge-similar-items](https://github.com/SaiNithin3470/Leetcode/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/nithin7907/Leetcode/tree/master/2418-sort-the-people) |
@@ -135,6 +137,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [0012-integer-to-roman](https://github.com/SaiNithin3470/Leetcode/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/SaiNithin3470/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0791-custom-sort-string](https://github.com/SaiNithin3470/Leetcode/tree/master/0791-custom-sort-string) |
 | [0916-word-subsets](https://github.com/SaiNithin3470/Leetcode/tree/master/0916-word-subsets) |
 | [1002-find-common-characters](https://github.com/nithin7907/Leetcode/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiNithin3470/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
