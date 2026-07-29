@@ -106,6 +106,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [2363-merge-similar-items](https://github.com/SaiNithin3470/Leetcode/tree/master/2363-merge-similar-items) |
 | [2405-optimal-partition-of-string](https://github.com/SaiNithin3470/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/nithin7907/Leetcode/tree/master/2418-sort-the-people) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SaiNithin3470/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nithin7907/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SaiNithin3470/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -132,6 +133,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [1748-sum-of-unique-elements](https://github.com/nithin7907/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nithin7907/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SaiNithin3470/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## String
 |  |
 | ------- |
@@ -150,6 +152,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [2325-decode-the-message](https://github.com/SaiNithin3470/Leetcode/tree/master/2325-decode-the-message) |
 | [2405-optimal-partition-of-string](https://github.com/SaiNithin3470/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/nithin7907/Leetcode/tree/master/2418-sort-the-people) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SaiNithin3470/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nithin7907/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 ## Bucket Sort
