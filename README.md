@@ -93,6 +93,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiNithin3470/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/nithin7907/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SaiNithin3470/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1370-increasing-decreasing-string](https://github.com/SaiNithin3470/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1512-number-of-good-pairs](https://github.com/nithin7907/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/SaiNithin3470/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -130,6 +131,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [0229-majority-element-ii](https://github.com/SaiNithin3470/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiNithin3470/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1370-increasing-decreasing-string](https://github.com/SaiNithin3470/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1512-number-of-good-pairs](https://github.com/nithin7907/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/nithin7907/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nithin7907/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -147,6 +149,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [0916-word-subsets](https://github.com/SaiNithin3470/Leetcode/tree/master/0916-word-subsets) |
 | [1002-find-common-characters](https://github.com/nithin7907/Leetcode/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiNithin3470/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1370-increasing-decreasing-string](https://github.com/SaiNithin3470/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/SaiNithin3470/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SaiNithin3470/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nithin7907/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
