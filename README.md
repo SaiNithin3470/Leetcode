@@ -22,6 +22,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [0217-contains-duplicate](https://github.com/nithin7907/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SaiNithin3470/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/nithin7907/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0575-distribute-candies](https://github.com/SaiNithin3470/Leetcode/tree/master/0575-distribute-candies) |
 | [0916-word-subsets](https://github.com/SaiNithin3470/Leetcode/tree/master/0916-word-subsets) |
 | [1002-find-common-characters](https://github.com/nithin7907/Leetcode/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiNithin3470/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -86,6 +87,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [0242-valid-anagram](https://github.com/SaiNithin3470/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SaiNithin3470/Leetcode/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0575-distribute-candies](https://github.com/SaiNithin3470/Leetcode/tree/master/0575-distribute-candies) |
 | [0791-custom-sort-string](https://github.com/SaiNithin3470/Leetcode/tree/master/0791-custom-sort-string) |
 | [0859-buddy-strings](https://github.com/SaiNithin3470/Leetcode/tree/master/0859-buddy-strings) |
 | [0916-word-subsets](https://github.com/SaiNithin3470/Leetcode/tree/master/0916-word-subsets) |
