@@ -74,6 +74,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | ------- |
 | [0258-add-digits](https://github.com/nithin7907/Leetcode/tree/master/0258-add-digits) |
 | [2295-replace-elements-in-an-array](https://github.com/SaiNithin3470/Leetcode/tree/master/2295-replace-elements-in-an-array) |
+| [3174-clear-digits](https://github.com/SaiNithin3470/Leetcode/tree/master/3174-clear-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -162,6 +163,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [2423-remove-letter-to-equalize-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SaiNithin3470/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nithin7907/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3174-clear-digits](https://github.com/SaiNithin3470/Leetcode/tree/master/3174-clear-digits) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -179,4 +181,8 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 |  |
 | ------- |
 | [2363-merge-similar-items](https://github.com/SaiNithin3470/Leetcode/tree/master/2363-merge-similar-items) |
+## Stack
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/SaiNithin3470/Leetcode/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
