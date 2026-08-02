@@ -97,6 +97,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [1207-unique-number-of-occurrences](https://github.com/nithin7907/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/SaiNithin3470/Leetcode/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1370-increasing-decreasing-string](https://github.com/SaiNithin3470/Leetcode/tree/master/1370-increasing-decreasing-string) |
+| [1496-path-crossing](https://github.com/SaiNithin3470/Leetcode/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/nithin7907/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/SaiNithin3470/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -153,6 +154,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [1002-find-common-characters](https://github.com/nithin7907/Leetcode/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/SaiNithin3470/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1370-increasing-decreasing-string](https://github.com/SaiNithin3470/Leetcode/tree/master/1370-increasing-decreasing-string) |
+| [1496-path-crossing](https://github.com/SaiNithin3470/Leetcode/tree/master/1496-path-crossing) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/SaiNithin3470/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SaiNithin3470/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nithin7907/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
