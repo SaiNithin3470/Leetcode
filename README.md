@@ -40,6 +40,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [2418-sort-the-people](https://github.com/nithin7907/Leetcode/tree/master/2418-sort-the-people) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SaiNithin3470/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nithin7907/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiNithin3470/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/SaiNithin3470/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Queue
 |  |
@@ -115,6 +116,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [2423-remove-letter-to-equalize-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SaiNithin3470/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nithin7907/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiNithin3470/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SaiNithin3470/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nithin7907/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/SaiNithin3470/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -129,6 +131,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [1636-sort-array-by-increasing-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2363-merge-similar-items](https://github.com/SaiNithin3470/Leetcode/tree/master/2363-merge-similar-items) |
 | [2418-sort-the-people](https://github.com/nithin7907/Leetcode/tree/master/2418-sort-the-people) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiNithin3470/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
 |  |
 | ------- |
