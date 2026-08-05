@@ -41,6 +41,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/SaiNithin3470/Leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/nithin7907/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiNithin3470/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SaiNithin3470/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/SaiNithin3470/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Queue
 |  |
@@ -119,6 +120,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SaiNithin3470/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SaiNithin3470/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/nithin7907/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SaiNithin3470/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/SaiNithin3470/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Sorting
 |  |
@@ -190,4 +192,8 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/SaiNithin3470/Leetcode/tree/master/3174-clear-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SaiNithin3470/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 <!---LeetCode Topics End-->
