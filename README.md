@@ -107,6 +107,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SaiNithin3470/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1817-finding-the-users-active-minutes](https://github.com/SaiNithin3470/Leetcode/tree/master/1817-finding-the-users-active-minutes) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nithin7907/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/SaiNithin3470/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nithin7907/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SaiNithin3470/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2295-replace-elements-in-an-array](https://github.com/SaiNithin3470/Leetcode/tree/master/2295-replace-elements-in-an-array) |
@@ -143,6 +144,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [1370-increasing-decreasing-string](https://github.com/SaiNithin3470/Leetcode/tree/master/1370-increasing-decreasing-string) |
 | [1512-number-of-good-pairs](https://github.com/nithin7907/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/nithin7907/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/SaiNithin3470/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nithin7907/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/SaiNithin3470/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/SaiNithin3470/Leetcode/tree/master/2423-remove-letter-to-equalize-frequency) |
@@ -163,6 +165,7 @@ This repository contains my C++ solutions to LeetCode problems solved as part of
 | [1624-largest-substring-between-two-equal-characters](https://github.com/SaiNithin3470/Leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SaiNithin3470/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/nithin7907/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/SaiNithin3470/Leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nithin7907/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2325-decode-the-message](https://github.com/SaiNithin3470/Leetcode/tree/master/2325-decode-the-message) |
 | [2405-optimal-partition-of-string](https://github.com/SaiNithin3470/Leetcode/tree/master/2405-optimal-partition-of-string) |
